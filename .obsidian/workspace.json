@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b3c8eafe3ab350c",
+            "id": "ae6c125f3ff8823f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/Knuth Shuffle.md",
+                "file": "命令/markdown命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knuth Shuffle"
-            }
-          },
-          {
-            "id": "7505559faae69625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/拓扑排序（Topological Sorting）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "拓扑排序（Topological Sorting）"
-            }
+              "title": "markdown命令"
+            },
+            "group": "196866ac28df9ee2"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -93,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ac5d67f3f30c439f",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knuth Shuffle.md",
+                "file": "命令/markdown命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knuth Shuffle"
+              "title": "markdown命令 的反向链接列表"
             }
           },
           {
@@ -148,29 +134,45 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "da8b2e3034f23ceb",
+            "id": "f116c194cd915fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命令/markdown命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "markdown命令"
+            },
+            "group": "196866ac28df9ee2"
+          },
+          {
+            "id": "115506c9454c5655",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knuth Shuffle.md",
+                "file": "命令/markdown命令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Knuth Shuffle"
+              "title": "markdown命令 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 252.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,12 +185,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7505559faae69625",
+  "active": "ae6c125f3ff8823f",
   "lastOpenFiles": [
-    "algorithm/Knuth Shuffle.md",
     "algorithm/拓扑排序（Topological Sorting）.md",
-    "未命名",
+    "algorithm/Knuth Shuffle.md",
+    "命令/markdown命令.md",
+    "命令/git常用命令.md",
     "Welcome.md",
+    "命令/linux常用命令.md",
+    "命令",
     "algorithm"
   ]
 }
