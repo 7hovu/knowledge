@@ -1,3 +1,6 @@
 {
-  "monospaceFontFamily": "Andale Mono"
+  "monospaceFontFamily": "JetBrains Mono,Andale Mono",
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true
 }

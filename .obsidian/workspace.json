@@ -4,40 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83059781d155c208",
+        "id": "6abcf80f54f1bc6b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae6c125f3ff8823f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "命令/markdown命令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "markdown命令"
-            },
-            "group": "196866ac28df9ee2"
-          },
-          {
-            "id": "9bb8df4bc8ce9320",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作总结/数据分析总结.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "数据分析总结"
-            }
-          },
-          {
-            "id": "ad1486bd1beebc21",
+            "id": "f5752f1eda056960",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -51,7 +22,7 @@
             }
           },
           {
-            "id": "eb85ae140f85c64c",
+            "id": "ae30bc552436fc09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,21 +36,22 @@
             }
           },
           {
-            "id": "b1bef0cb72bd2b96",
+            "id": "22817b0e3fdd253d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scip安装测试.md",
+                "file": "工作总结/工作总结-1118.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scip安装测试"
+              "title": "工作总结-1118"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -102,7 +74,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -136,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac5d67f3f30c439f",
@@ -206,8 +179,7 @@
               },
               "icon": "lucide-file",
               "title": "markdown命令"
-            },
-            "group": "196866ac28df9ee2"
+            }
           },
           {
             "id": "115506c9454c5655",
@@ -234,26 +206,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b1bef0cb72bd2b96",
+  "active": "22817b0e3fdd253d",
   "lastOpenFiles": [
     "工作总结/试用期工作总结--扩充版.md",
-    "scip安装测试.md",
     "工作总结/试用期工作总结.md",
+    "工作总结/工作总结-1118.md",
+    "Welcome.md",
+    "feeling/幻想.md",
+    "feeling",
+    "命令/markdown命令.md",
+    "命令/git常用命令.md",
+    "scip安装测试.md",
+    "预筛选调拨路径.md",
+    "调拨转直发.md",
     "工作总结/数据分析总结.md",
     "工作总结",
-    "命令/markdown命令.md",
     "algorithm/拓扑排序（Topological Sorting）.md",
     "algorithm/Knuth Shuffle.md",
-    "命令/git常用命令.md",
-    "Welcome.md",
     "命令/linux常用命令.md",
     "命令",
     "algorithm"
